@@ -1,7 +1,7 @@
 <!--
 <h2 align="center">
   Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="28">
 </h2>
 -->
 
@@ -38,10 +38,10 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/camilleferraz">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="camilleferraz" />
+  <img src="https://img.shields.io/badge/Website-8A3EC6?style=for-the-badge&logo=medium&logoColor=white" alt="camilleferraz" />
  </a>
  <a href="https://linkedin.com/in/camilleferraz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="camilleferraz"/>
+  <img src="https://img.shields.io/badge/LinkedIn-C63EAB?style=for-the-badge&logo=linkedin&logoColor=white" alt="camilleferraz"/>
  </a>
  </p>
 <br />
@@ -50,11 +50,11 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to learn new technologies features<br/><br/>
- 📧 &emsp; Feel free to e-mail me: milleagf@hotmail.com<br/><br/>
+ 👾 &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 💜 &emsp; Love to learn new technologies features<br/><br/>
+ 🔮 &emsp; Feel free to e-mail me: milleagf@hotmail.com<br/><br/>
 
 </p>
 
@@ -64,17 +64,17 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=MySQL&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-8A3EC6?style=for-the-badge&labelColor=8A3EC6&logo=javascript&logoColor=EADBE8)
+![Typescript](https://img.shields.io/badge/Typescript-C63EAB?style=for-the-badge&labelColor=C63EAB&logo=typescript&logoColor=EADBE8)
+![React](https://img.shields.io/badge/-React-8A3EC6?style=for-the-badge&labelColor=8A3EC6&logo=react&logoColor=EADBE8)
+![Nodejs](https://img.shields.io/badge/Nodejs-C63EAB?style=for-the-badge&labelColor=C63EAB&logo=node.js&logoColor=EADBE8)
+![Express.js](https://img.shields.io/badge/Express.js-8A3EC6?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-C63EAB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8A3EC6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C63EAB?style=for-the-badge&logo=MySQL&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-8A3EC6?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-C63EAB?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A3EC6?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://github.com/camilleferraz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilleferraz&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilleferraz&theme=radical&border=7F3FBF&background=5D1F55" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
@@ -105,10 +105,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/camilleferraz"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=camilleferraz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/camilleferraz"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilleferraz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/camilleferraz"><img alt="Camille's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=camilleferraz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=5D1F55&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/camilleferraz"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilleferraz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=5D1F55&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=camilleferraz&custom_title=Camille%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=camilleferraz&custom_title=Camille%20GitHub%20Activity%20Graph&bg_color=5D1F55&color=5FDFD0&line=5FDFD0&point=5FDFD0&area_color=FFFFFF&title_color=5FDFD0&area=true)
