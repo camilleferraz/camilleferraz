@@ -38,10 +38,10 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/camilleferraz">
-  <img src="https://img.shields.io/badge/Website-8A3EC6?style=for-the-badge&logo=medium&logoColor=white" alt="camilleferraz" />
+  <img src="https://img.shields.io/badge/Website-50006C?style=for-the-badge&logo=medium&logoColor=white" alt="camilleferraz" />
  </a>
  <a href="https://linkedin.com/in/camilleferraz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-C63EAB?style=for-the-badge&logo=linkedin&logoColor=white" alt="camilleferraz"/>
+  <img src="https://img.shields.io/badge/LinkedIn-776DCD?style=for-the-badge&logo=linkedin&logoColor=white" alt="camilleferraz"/>
  </a>
  </p>
 <br />
@@ -64,28 +64,28 @@
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-8A3EC6?style=for-the-badge&labelColor=8A3EC6&logo=javascript&logoColor=EADBE8)
-![Typescript](https://img.shields.io/badge/Typescript-C63EAB?style=for-the-badge&labelColor=C63EAB&logo=typescript&logoColor=EADBE8)
-![React](https://img.shields.io/badge/-React-8A3EC6?style=for-the-badge&labelColor=8A3EC6&logo=react&logoColor=EADBE8)
-![Nodejs](https://img.shields.io/badge/Nodejs-C63EAB?style=for-the-badge&labelColor=C63EAB&logo=node.js&logoColor=EADBE8)
-![Express.js](https://img.shields.io/badge/Express.js-8A3EC6?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-C63EAB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8A3EC6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-C63EAB?style=for-the-badge&logo=MySQL&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-8A3EC6?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-C63EAB?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8A3EC6?style=for-the-badge&logo=git&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-50006C?style=for-the-badge&labelColor=50006C&logo=javascript&logoColor=EADBE8)
+![Typescript](https://img.shields.io/badge/Typescript-776DCD?style=for-the-badge&labelColor=776DCD&logo=typescript&logoColor=EADBE8)
+![React](https://img.shields.io/badge/-React-50006C?style=for-the-badge&labelColor=50006C&logo=react&logoColor=EADBE8)
+![Nodejs](https://img.shields.io/badge/Nodejs-776DCD?style=for-the-badge&labelColor=776DCD&logo=node.js&logoColor=EADBE8)
+![Express.js](https://img.shields.io/badge/Express.js-50006C?style=for-the-badge&logo=express&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-776DCD?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-50006C?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-776DCD?style=for-the-badge&logo=MySQL&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-50006C?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-776DCD?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-50006C?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=coffee-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/camilleferraz/coffee-project)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=Labeddit-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/camilleferraz/Labeddit-frontend)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=labook&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/camilleferraz/labook)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=projeto-labecommerce-backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/camilleferraz/projeto-labecommerce-backend)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=coffee-project&border_color=7F3FBF&bg_color=50006C&title_color=C9D1D9&text_color=8B949E&icon_color=9388F5)](https://github.com/camilleferraz/coffee-project)
+[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=Labeddit-frontend&border_color=7F3FBF&bg_color=50006C&title_color=C9D1D9&text_color=8B949E&icon_color=9388F5)](https://github.com/camilleferraz/Labeddit-frontend)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=labook&border_color=7F3FBF&bg_color=50006C&title_color=C9D1D9&text_color=8B949E&icon_color=9388F5)](https://github.com/camilleferraz/labook)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=camilleferraz&repo=projeto-labecommerce-backend&border_color=7F3FBF&bg_color=50006C&title_color=C9D1D9&text_color=8B949E&icon_color=9388F5)](https://github.com/camilleferraz/projeto-labecommerce-backend)
 
 <p align="left">
-  <a href="https://github.com/camilleferraz?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/camilleferraz?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-5D1F55?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -94,21 +94,21 @@
 
 <p align="center">
   <a href="https://github.com/camilleferraz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilleferraz&theme=radical&border=7F3FBF&background=5D1F55" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilleferraz&theme=tokyonight&border=7F3FBF&background=50006C" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/camilleferraz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilleferraz&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilleferraz&theme=radical&background=50006C" alt="Camille´s GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/camilleferraz"><img alt="Camille's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=camilleferraz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=5D1F55&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/camilleferraz"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilleferraz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=5D1F55&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/camilleferraz"><img alt="Camille's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=camilleferraz&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=50006C&title_color=D0A6DE&icon_color=9388F5" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/camilleferraz"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilleferraz&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=50006C&title_color=D0A6DE&icon_color=9388F5" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=camilleferraz&custom_title=Camille%20GitHub%20Activity%20Graph&bg_color=5D1F55&color=5FDFD0&line=5FDFD0&point=5FDFD0&area_color=FFFFFF&title_color=5FDFD0&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=camilleferraz&custom_title=Camille%20GitHub%20Activity%20Graph&bg_color=50006C&color=D0A6DE&line=5FDFD0&point=5FDFD0&area_color=FFFFFF&title_color=D0A6DE&area=true)
